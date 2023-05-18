@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="row my-5">
+    <div class="card text-bg-primary m-2 text-center"  style="max-width: 16rem;">
+      <div class="card-header">Products</div>
+      <div class="card-body">
+        <h5 class="card-title h2 mt-3">{{products.length}}</h5>
+      </div>
+      <div class="card-footer"><a routerLink="/Dashboard/Products" style="text-decoration: none; color: white;">View Details</a>
+      </div>
+    </div>
+
+    <div class="card text-bg-success m-2 text-center" style="max-width: 16rem;">
+      <div class="card-header">Suppliers</div>
+      <div class="card-body">
+        <h5 class="card-title h2 mt-3">{{suppliers.length}}</h5>
+      </div>
+      <div class="card-footer"><a routerLink="/Dashboard/Suppliers" style="text-decoration: none; color: white;">View Details</a>
+      </div>
+    </div>
+
+    <div class="card text-bg-danger m-2 text-center" style="max-width: 16rem;">
+      <div class="card-header">Offers</div>
+      <div class="card-body">
+        <h5 class="card-title h2 mt-3">{{offers.length}}</h5>
+      </div>
+      <div class="card-footer"><a routerLink="/Dashboard/Offers" style="text-decoration: none; color: white;">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\097a6c5f-8dcc-4e2c-a80c-d6e00b5a12e0pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\097a6c5f-8dcc-4e2c-a80c-d6e00b5a12e0pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\1104ed2d-e7ab-4577-bf2d-3ebec550e642pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\1104ed2d-e7ab-4577-bf2d-3ebec550e642pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\139a67d9-f033-446c-bff2-cee3c99fa624pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\139a67d9-f033-446c-bff2-cee3c99fa624pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\35e76a19-5da2-45ec-9c87-2f55a42d5a7bpic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\35e76a19-5da2-45ec-9c87-2f55a42d5a7bpic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\58c18e2c-9fd3-4ef8-b41e-2b3d6b0621b0pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\58c18e2c-9fd3-4ef8-b41e-2b3d6b0621b0pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\63438c16-385f-4a68-80dd-c2a279a466f7pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\63438c16-385f-4a68-80dd-c2a279a466f7pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\6e466198-4079-428e-b23a-5fb1d0936b5epic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\6e466198-4079-428e-b23a-5fb1d0936b5epic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\7b854e1a-ec0b-4c6e-86f3-45a5dc9f36f0pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\7b854e1a-ec0b-4c6e-86f3-45a5dc9f36f0pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\9bd2665c-9ef1-4b53-94c7-a171b697d249pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\9bd2665c-9ef1-4b53-94c7-a171b697d249pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\9c5906e9-a68d-47c5-bbc0-e01065d766a6about-img.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\9c5906e9-a68d-47c5-bbc0-e01065d766a6about-img.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\bae5164a-4ce2-4c1d-9a7c-19eb61985945pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\bae5164a-4ce2-4c1d-9a7c-19eb61985945pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\c325482f-83c9-4329-a113-6207a1767773pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\c325482f-83c9-4329-a113-6207a1767773pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\e62a8384-0433-4b28-b17b-b99468427aebpic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\e62a8384-0433-4b28-b17b-b99468427aebpic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\ProductIMG\\f381de5e-a965-4183-8500-3fd1a097e7f5pic.jpg",
+      "PackagePath": "staticwebassets\\ProductIMG\\f381de5e-a965-4183-8500-3fd1a097e7f5pic.jpg"
+    },
+    {
+      "Id": "G:\\Esraa\\Angular\\AngularEcommerceFinal\\API_PROJECT\\API_PROJECT\\wwwroot\\htmlpage.html",
+      "PackagePath": "staticwebassets\\htmlpage.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API_PROJECT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API_PROJECT.props",
+      "PackagePath": "build\\API_PROJECT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API_PROJECT.props",
+      "PackagePath": "buildMultiTargeting\\API_PROJECT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API_PROJECT.props",
+      "PackagePath": "buildTransitive\\API_PROJECT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

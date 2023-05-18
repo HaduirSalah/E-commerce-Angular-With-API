@@ -1,0 +1,684 @@
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.json
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.exe
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.deps.json
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.runtimeconfig.json
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.pdb
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.AssemblyReference.cache
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfoInputs.cache
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfo.cs
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CoreCompileInputs.cache
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.API_PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.build.API_PROJECT.props
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_PROJECT.props
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_PROJECT.props
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\scopedcss\bundle\API_PROJECT.styles.css
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CopyComplete
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.dll
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\refint\API_PROJECT.dll
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.pdb
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.genruntimeconfig.cache
+D:\ITI API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\ref\API_PROJECT.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Humanizer.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.staticwebassets.runtime.json
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.AssemblyReference.cache
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfoInputs.cache
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfo.cs
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CoreCompileInputs.cache
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\refint\API_PROJECT.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.pdb
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.json
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.staticwebassets.runtime.json
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.exe
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.deps.json
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.runtimeconfig.json
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.pdb
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Humanizer.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.API_PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.build.API_PROJECT.props
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_PROJECT.props
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_PROJECT.props
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\scopedcss\bundle\API_PROJECT.styles.css
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CopyComplete
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.genruntimeconfig.cache
+D:\ITI materials\Angular\APIProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\ref\API_PROJECT.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.Development.json
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.json
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.staticwebassets.runtime.json
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.exe
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.deps.json
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.runtimeconfig.json
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.pdb
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Core.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Identity.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Humanizer.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.CodeDom.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.AssemblyReference.cache
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfoInputs.cache
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfo.cs
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CoreCompileInputs.cache
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cs
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.API_PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.build.API_PROJECT.props
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_PROJECT.props
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_PROJECT.props
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.build.json
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.development.json
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\scopedcss\bundle\API_PROJECT.styles.css
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CopyComplete
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\refint\API_PROJECT.dll
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.pdb
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.genruntimeconfig.cache
+G:\Esraa\Angular\FinalProject\API_PROJECT\API_PROJECT\obj\Debug\net7.0\ref\API_PROJECT.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.Development.json
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.json
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.staticwebassets.runtime.json
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.exe
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.deps.json
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.runtimeconfig.json
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.pdb
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Core.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Identity.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Humanizer.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.CodeDom.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.AssemblyReference.cache
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfoInputs.cache
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfo.cs
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CoreCompileInputs.cache
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cs
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.API_PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.build.API_PROJECT.props
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_PROJECT.props
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_PROJECT.props
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.build.json
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.development.json
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\scopedcss\bundle\API_PROJECT.styles.css
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CopyComplete
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\refint\API_PROJECT.dll
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.pdb
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.genruntimeconfig.cache
+G:\Esraa\Angular\API\API_PROJECT\API_PROJECT\obj\Debug\net7.0\ref\API_PROJECT.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.json
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.staticwebassets.runtime.json
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.exe
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.deps.json
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.runtimeconfig.json
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.pdb
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Humanizer.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.AssemblyReference.cache
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfoInputs.cache
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfo.cs
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CoreCompileInputs.cache
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.API_PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.build.API_PROJECT.props
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_PROJECT.props
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_PROJECT.props
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\scopedcss\bundle\API_PROJECT.styles.css
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CopyComplete
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\refint\API_PROJECT.dll
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.pdb
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.genruntimeconfig.cache
+D:\ITI materials\Angular\Project\api 2023-4-30\API_PROJECT\API_PROJECT\obj\Debug\net7.0\ref\API_PROJECT.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.Development.json
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.json
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.staticwebassets.runtime.json
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.exe
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.deps.json
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.runtimeconfig.json
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.pdb
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Core.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Identity.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Humanizer.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.CodeDom.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Memory.Data.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.AssemblyReference.cache
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfoInputs.cache
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfo.cs
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CoreCompileInputs.cache
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cs
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.API_PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.build.API_PROJECT.props
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_PROJECT.props
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_PROJECT.props
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.pack.json
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.build.json
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.development.json
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\scopedcss\bundle\API_PROJECT.styles.css
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CopyComplete
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\refint\API_PROJECT.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.pdb
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.genruntimeconfig.cache
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\obj\Debug\net7.0\ref\API_PROJECT.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\E-Commerce with Angular\DataBase and Web Api\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.json
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.staticwebassets.runtime.json
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.exe
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.deps.json
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.runtimeconfig.json
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.pdb
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Humanizer.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.AssemblyReference.cache
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfoInputs.cache
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfo.cs
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CoreCompileInputs.cache
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.API_PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.build.API_PROJECT.props
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_PROJECT.props
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_PROJECT.props
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\scopedcss\bundle\API_PROJECT.styles.css
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CopyComplete
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\refint\API_PROJECT.dll
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.pdb
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.genruntimeconfig.cache
+D:\ITI Angulare\Angulare project\API_PROJECT\API_PROJECT\obj\Debug\net7.0\ref\API_PROJECT.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.Development.json
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\appsettings.json
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.staticwebassets.runtime.json
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.exe
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.deps.json
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.runtimeconfig.json
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\API_PROJECT.pdb
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Core.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Azure.Identity.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Humanizer.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.CodeDom.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.AssemblyReference.cache
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfoInputs.cache
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.AssemblyInfo.cs
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CoreCompileInputs.cache
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cs
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.API_PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.build.API_PROJECT.props
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_PROJECT.props
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_PROJECT.props
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.build.json
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\staticwebassets.development.json
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\scopedcss\bundle\API_PROJECT.styles.css
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.csproj.CopyComplete
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\refint\API_PROJECT.dll
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.pdb
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\API_PROJECT.genruntimeconfig.cache
+G:\Esraa\Angular\AngularEcommerceFinal\API_PROJECT\API_PROJECT\obj\Debug\net7.0\ref\API_PROJECT.dll

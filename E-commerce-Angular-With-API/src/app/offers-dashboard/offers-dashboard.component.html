@@ -1,0 +1,31 @@
+<div class="container">
+  <div class="row">
+    <a class="btn btn-primary col-md-3 mt-5" routerLink="/Offers/Add">Add New Offer</a>
+    <table class="table border my-5">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Start Date</th>
+          <th>End Date</th>
+          <th>Offer Percentage</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let offer of Offers">
+          <td>{{offer.name}}</td>
+          <td>{{offer.startDate| date:'medium'}}</td>
+          <td>{{offer.endDate| date:'medium'}}</td>
+          <td>{{offer.offerPersentage}} %</td>
+          <td>
+            <a routerLink="/Offers/Edit/{{offer.id}}" class="m-3 h3" style="color: #434F78;"><i class="fa-solid fa-pen-to-square"></i></a>
+            <!-- <a routerLink="/Products/Delete/{{product.id}}" class="m-3 h3" style="color: #f3c93e;"><i class="fa-solid fa-trash"></i></a> -->
+            <a (click)="ConfirmDelete(offer.id)" class="m-3 h3" style="color: #f3c93e;"><i class="fa-solid fa-trash"></i></a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <a class="col-md-3 mb-5 text-info" routerLink="/Dashboard">Back to Dashboard</a>
+  </div>
+</div>
+

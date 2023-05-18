@@ -1,0 +1,32 @@
+.Cart_Button {
+  display: inline-block;
+  width: 175px;
+  text-align: center;
+  height: 45px;
+  line-height: 45px;
+  background-color: #3a4468;
+  color: #ffffff;
+}
+
+.Cart_Button:hover {
+  background-color: #f3c93e;
+  color: #ffffff;
+}
+
+textarea {
+  resize: none;
+}
+
+#button {
+  background-color: #f3c93e;
+  border-radius: 0;
+  color: white;
+}
+
+// .Previous, .next{
+//   background-color: #3a4468;
+//   color: #ffffff;
+//   padding: 1.7%;
+//   margin-left: 1%;
+// }
+

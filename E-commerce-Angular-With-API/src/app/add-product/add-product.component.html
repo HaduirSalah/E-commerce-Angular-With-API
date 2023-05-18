@@ -1,0 +1,112 @@
+<div class="container my-5">
+  <div class="heading_container heading_center">
+    <h2>
+      Add New Product
+    </h2>
+  </div>
+  <div class="row">
+    <form [formGroup]="productForm" (ngSubmit)="submitData()" class="col-md-8 mx-auto">
+      <div class="form-group my-4">
+        <label class="form-label">Product Name : </label>
+        <input type="text" formControlName="name" class="form-control" />
+        <div *ngIf="name?.invalid && (name?.dirty || name?.touched)">
+          <small class="text-danger" *ngIf="name?.errors?.['required']">
+            Product name is required
+          </small>
+          <small class="text-danger" *ngIf="name?.errors?.['pattern']">
+            Product name must also contains only capital and small characters
+          </small>
+          <small class="text-danger" *ngIf="name?.errors?.['minlength']">
+            Product name must have at least 3 characters
+          </small>
+          <small class="text-danger" *ngIf="name?.errors?.['maxlength']">
+            Product name must have at most 50 characters
+          </small>
+        </div>
+      </div>
+
+      <div class="form-group my-4">
+        <label>Description :</label>
+        <textarea rows="4" type="text" formControlName="description" class="form-control" ></textarea>
+        <div *ngIf="description?.invalid && (description?.dirty || description?.touched)">
+          <small class="text-danger" *ngIf="description?.errors?.['required']">
+            Description is required
+          </small>
+          <small class="text-danger" *ngIf="description?.errors?.['minlength']">
+            Description must have at least 10 characters
+          </small>
+          <small class="text-danger" *ngIf="description?.errors?.['maxlength']">
+            Description must have at most 500 characters
+          </small>
+        </div>
+      </div>
+
+      <div class="form-group my-4">
+        <label>Image To Uploade :</label>
+        <img class="m-3" src="{{base64}}" alt="">
+        <input type="file" formControlName="ImageOfProduct" class="form-control" (change)="GetImagePath($event)"/>
+        <!-- <input type="text" formControlName="imageName" class="form-control" /> -->
+        <div *ngIf="imageOfProduct?.invalid && (imageOfProduct?.dirty || imageOfProduct?.touched)">
+          <small class="text-danger" *ngIf="imageOfProduct?.errors?.['required']">
+            Image is required
+          </small>
+        </div>
+      </div>
+
+      <div class="form-group my-4">
+        <label class="form-label">Product Price : </label>
+        <input type="number" formControlName="price" class="form-control" />
+        <div *ngIf="price?.invalid && (price?.dirty || price?.touched)">
+          <small class="text-danger" *ngIf="price?.errors?.['required']">
+            Product price is required
+          </small>
+        </div>
+      </div>
+
+      <div class="form-group my-4">
+        <label class="form-label">Product Quantity : </label>
+        <input type="number" formControlName="quantity" class="form-control" />
+        <div *ngIf="quantity?.invalid && (quantity?.dirty || quantity?.touched)">
+          <small class="text-danger" *ngIf="quantity?.errors?.['required']">
+            Product price is required
+          </small>
+        </div>
+      </div>
+
+      <div class="from-group my-4">
+        <label for="Category" class="form-label">Category :</label>
+        <select name="categoryID" formControlName="categoryID" id="Category" class="form-control">
+          <option [ngValue]="null" disabled selected>Choose Category</option>
+          <option *ngFor="let category of Categories" value="{{category.id}}">{{category.name}}</option>
+        </select>
+      </div>
+
+      <div class="from-group my-4">
+        <label for="brand" class="form-label">Brand :</label>
+        <select name="brandID" id="brand" formControlName="brandID" class="form-control">
+          <option [ngValue]="null" disabled selected>Choose Brand</option>
+          <option *ngFor="let brand of Brands" value="{{brand.id}}">{{brand.name}}</option>
+        </select>
+      </div>
+
+      <div class="from-group my-4">
+        <label for="offer" class="form-label">Offer :</label>
+        <select name="offerID" id="offer" formControlName="offerID" class="form-control">
+          <option [ngValue]="null" disabled selected>Choose Offer</option>
+          <option *ngFor="let offer of Offers" value="{{offer.id}}">{{offer.name}}</option>
+        </select>
+      </div>
+
+      <div class="from-group my-4">
+        <label for="supplier" class="form-label">Supplier :</label>
+        <select name="supplierID" id="supplier" formControlName="supplierID" class="form-control">
+          <option [ngValue]="null" disabled selected>Choose Supplier</option>
+          <option *ngFor="let supplier of Suppliers" value="{{supplier.id}}">{{supplier.name}}</option>
+        </select>
+      </div>
+
+      <input type="submit" [disabled]="productForm.invalid" class="btn btn-success" value="Add" />
+    </form>
+  </div>
+</div>
+

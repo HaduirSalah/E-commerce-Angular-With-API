@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <button onclick="getdata()" >getdata</button>
+    <div id="presentdata"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"
+            integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" 
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+
+        function getdata()
+        {
+            //$.ajax({
+            //    type: "get"
+            //    url: "demo_test.txt",
+            //    success: function (result) {
+            //        $("#presentdata").html(result);
+            //    }
+            //});
+                const xhttp = new XMLHttpRequest();
+                xhttp.onload = function (data)
+                {
+                    document.getElementById("presentdata").innerHTML = data
+                    console.log(this.responseText);
+                    var x = JSON.parse(this.responseText);
+                    console.log(x);
+                }
+               
+
+                xhttp.open("GET", "api/Department/1");
+                xhttp.send();
+                console.log("1111");
+            
+          
+
+        }
+
+
+
+
+    </script>
+</body>
+
+</html>

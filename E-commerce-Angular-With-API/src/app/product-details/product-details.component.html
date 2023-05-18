@@ -1,0 +1,128 @@
+<section class="py-5">
+  <div class="container px-4 px-lg-5 my-5">
+    <div class="row mx-auto">
+      <div class="col-md-5 me-5">
+        <img class="mb-5 mb-md-0" style="width: 95%; height: 600px;object-fit: contain;"
+          src="http://localhost:5099/ProductIMG/{{Product.imageName}}" alt="..." />
+        </div>
+      <div class="col-md-6" style="margin-top: 10%;">
+        <!-- <div class="small mb-1">SKU: BST-498</div> -->
+        <h1 class="display-5 fw-bolder">{{Product.name}}</h1>
+        <div class="fs-5 mb-3">
+          <!-- <span class="text-decoration-line-through">$45.00</span> -->
+          <span>{{tempPrice[0]}} LE</span>
+        </div>
+        <p class="lead">{{Product.description}}</p>
+        <div class="d-flex">
+
+
+          <div class="card rounded-3 mb-4">
+            <div class="card-body p-4">
+              <div class="row d-flex justify-content-between align-items-center">
+                <div class="col-3 col-xl-2 d-flex">
+                  <button class="btn btn-link "
+                    onclick="this.parentNode.querySelector('input[type=number]').stepDown()">
+                    <i class="fas fa-minus"></i>
+                  </button>
+                  <input class="form-control text-center me-3" id="inputQuantity" [value]="SelectQuantity" type="num"
+                    value="1" style="width: 3rem" />
+                  <button class="btn btn-link  " (click)="IncreaseTheValue(Product)">
+                    <i class="fas fa-plus"></i>
+                  </button>
+                </div>
+                <div class="col-md-3 col-lg-2 col-xl-2 offset-lg-1" style="width: 100px;">
+                  <h5 class="mb-0">{{Product.price}}</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a style="color:white" class="Cart_Button" type="button" (click)="addToCart(Product)">
+          <i class="fa-sharp fa-solid fa-cart-shopping"></i>
+          Add to cart
+        </a>
+      </div>
+
+      <div class="my-5">
+        <textarea name="reviewText" rows="4" class="form-control" placeholder="Write a review"
+          [(ngModel)]="ReviewText"></textarea>
+        <button (click)="AddNewReview()" type="submit" id="button" class="btn col-md-2 my-3">ADD REVIEW</button>
+      </div>
+
+      <div *ngIf="ReviewsByProductId.length==0 then thenBlock else elseBlock"></div>
+      <ng-template #thenBlock>
+
+      </ng-template>
+      <ng-template #elseBlock>
+        <hr>
+        <!-- Testimonial 1 - Bootstrap Brain Component -->
+        <section class="bg-light py-5 py-xl-8">
+          <div class="container mb-5 mb-md-6">
+            <div class="row justify-content-md-center">
+              <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6 text-center">
+                <h2 class="mb-4 display-5">Reviews</h2>
+                <!-- <p class="text-secondary mb-4 mb-md-5">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque et neque id ligula mattis commodo.</p> -->
+                <hr class="w-50 mx-auto mb-0 text-secondary">
+              </div>
+            </div>
+          </div>
+
+          <div class="container overflow-hidden">
+            <div class="row justify-content-lg-around gy-5 gy-md-6">
+              <div class="col-12 col-sm-6 col-lg-5" *ngFor="let review of ReviewsByProductId">
+                <div class="col-xl-11 col-xxl-10 mx-auto text-center">
+                  <p class="mb-2 ">
+                    <em>" {{review.reviewText}} "</em>
+                  </p>
+                  <p class="m-0 fw-bold">{{review.customerName}}</p>
+                  <p class="m-0 fw-bold">{{review.date| date:'medium'}}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- <section class="slider_section">
+          <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div class="container ">
+                  <div class="row">
+                    <p class="lead font-italic mx-4 mx-md-5">
+                      {{ReviewsByProductId[0].reviewText}}
+                    </p>
+                    <p class="text-muted mb-0">- {{ReviewsByProductId[0].customerName}}</p>
+                    <p class="text-muted mb-0">{{ReviewsByProductId[0].date| date:'medium'}}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item" *ngFor="let review of ReviewsByProductId">
+                <div class="container">
+                  <div class="row">
+                    <p class="lead font-italic mx-4 mx-md-5">
+                      {{review.reviewText}}
+                    </p>
+                    <p class="text-muted mb-0">- {{review.customerName}}</p>
+                    <p class="text-muted mb-0">{{review.date| date:'medium' }}</p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </section>
+        <div style="margin-top: 30px;">
+          <a class="Previous" href="#customCarousel1" role="button" data-slide="prev">
+            <i class="fa fa-angle-left" aria-hidden="true"></i>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="next" href="#customCarousel1" role="button" data-slide="next">
+            <i class="fa fa-angle-right" aria-hidden="true"></i>
+            <span class="sr-only">Next</span>
+          </a>
+        </div> -->
+      </ng-template>
+
+    </div>
+  </div>
+</section>

@@ -1,0 +1,119 @@
+<div class="hero_area">
+  <!-- header section strats -->
+  <header class="header_section">
+    <div class="header_top">
+      <div class="container-fluid">
+        <div class="top_nav_container">
+          <div class="contact_nav">
+            <a href="tel:+01 123455678990">
+              <i class="fa fa-phone" aria-hidden="true"></i>
+              <span>
+                Call : +01 123455678990
+              </span>
+            </a>
+            <a href="mailto:demo@gmail.com">
+              <i class="fa fa-envelope" aria-hidden="true"></i>
+              <span>
+                Email : HAEG@gmail.com
+              </span>
+            </a>
+          </div>
+          <form class="search_form">
+            <input type="text" class="form-control" placeholder="Search here...">
+            <button class="" type="submit">
+              <i class="fa fa-search" aria-hidden="true"></i>
+            </button>
+          </form>
+          <div class="user_option_box">
+            <a routerLink="/Account" class="account-link" *ngIf="IsLoging">
+              <i class="fa fa-user" aria-hidden="true"></i>
+              <span>
+                {{UserName}}
+              </span>
+            </a>
+            <a routerLink="" class="account-link" *ngIf="IsLoging" (click)="SignOut()">
+              <i class="fa-solid fa-arrow-right-from-bracket" aria-hidden="true"></i>
+              <span style="color: white;">
+                Sign out
+              </span>
+            </a>
+            <a routerLink="/Cart" class="cart-link" *ngIf="this.UserRole !='Delivery' && this.UserRole !='Admin' && IsLoging">
+              <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+              <span>
+                Cart <span *ngIf="totalItems!=0" style="width: 30px;" class="position-relative badge text-bg-danger">
+                  {{totalItems}}
+                </span>
+              </span>
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="header_bottom">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" routerLink="/Home">
+            <!-- <span style="font-size: 24px !important; font-family: 'Helvetica';">
+              HAEG
+            </span> -->
+            <img style="width: 80px;" src="assets/images/HAEG_Logo.png" alt="">
+          </a>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class=""> </span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent" *ngIf="this.UserRole !='Delivery' && this.UserRole !='Admin'">
+            <ul class="navbar-nav ">
+              <li class="nav-item active">
+                <a class="nav-link" routerLink="/Home" routerLinkActive="active">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" routerLink="/AboutUs" routerLinkActive="active"> About Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" routerLink="/Products" routerLinkActive="active">Products</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" routerLink="/Order" routerLinkActive="active">Orders</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" *ngIf="!IsLoging" routerLink="/Register" routerLinkActive="active">Sign Up</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" *ngIf="!IsLoging" routerLink="/Login" routerLinkActive="active">Sign In</a>
+              </li>
+            </ul>
+          </div>
+
+          <!-- <div class="collapse navbar-collapse" id="navbarSupportedContent" *ngIf="this.UserRole ==null">
+            <ul class="navbar-nav ">
+              <li class="nav-item active">
+                <a class="nav-link" routerLink="/Home" routerLinkActive="active">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" routerLink="/AboutUs" routerLinkActive="active"> About Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" routerLink="/Products" routerLinkActive="active">Products</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" routerLink="/Order" routerLinkActive="active">Orders</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" *ngIf="!IsLoging" routerLink="/Register" routerLinkActive="active">Sign Up</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" *ngIf="!IsLoging" routerLink="/Login" routerLinkActive="active">Sign In</a>
+              </li>
+            </ul>
+          </div> -->
+        </nav>
+      </div>
+    </div>
+  </header>
+  <!-- end header section -->
+</div>

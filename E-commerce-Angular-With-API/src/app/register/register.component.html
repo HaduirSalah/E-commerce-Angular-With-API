@@ -1,0 +1,99 @@
+<div class="container mt-5">
+  <div class="heading_container heading_center">
+    <h2>
+      Sign Up
+    </h2>
+  </div>
+  <div class="row">
+    <form [formGroup]="registerForm" (ngSubmit)="submitData()" class="col-md-8 mx-auto">
+      <br />
+      <br />
+      <div class="form-group">
+        <label>User Name : </label>
+        <input type="text" formControlName="userName" class="form-control" />
+        <div *ngIf="userName?.invalid && (userName?.dirty || userName?.touched)">
+          <small class="text-danger" *ngIf="userName?.errors?.['required']">
+            username is required
+          </small>
+          <small class="text-danger" *ngIf="userName?.errors?.['pattern']">
+            username must also contains only capital and small characters
+          </small>
+          <small class="text-danger" *ngIf="userName?.errors?.['minlength']">
+            username must have at least 3 characters
+          </small>
+          <small class="text-danger" *ngIf="userName?.errors?.['maxlength']">
+            username must have at most 50 characters
+          </small>
+        </div>
+      </div>
+      <br />
+      <br />
+      <div class="form-group">
+        <label>Email :</label>
+        <input type="email" formControlName="email" class="form-control" />
+        <div *ngIf="email?.invalid && (email?.dirty || email?.touched)">
+          <small class="text-danger" *ngIf="email?.errors?.['required']">
+            email is required
+          </small>
+          <small class="text-danger" *ngIf="email?.errors?.['email']">
+            Email must be in the format user@domain.com
+          </small>
+        </div>
+      </div>
+      <br />
+      <br />
+      <div class="form-group">
+        <label>Password :</label>
+        <input type="password" formControlName="password" class="form-control" />
+        <div *ngIf="password?.invalid && (password?.dirty || password?.touched)">
+          <small class="text-danger" *ngIf="password?.errors?.['required']">
+            password is required
+          </small>
+          <small class="text-danger" *ngIf="password?.errors?.['pattern']">
+            password must contain at least one non alphanumeric and minimum six characters
+          </small>
+        </div>
+      </div>
+      <br />
+      <br />
+      <div class="from-group">
+        <label>Confirm Password :</label>
+        <input type="password" formControlName="confirmPassword" class="form-control" />
+        <small *ngIf="registerForm.errors?.['misMatch']" class="text-danger">Confirm password do not match
+          password</small>
+      </div>
+      <br />
+      <br />
+      <div class="from-group">
+        <label>your Role :</label>
+        <select name="supplierID" id="supplier" formControlName="NameOfRoleOFUserID"  (change)="makechange()" class="form-control">
+          <option value="" disabled selected>Choose Role</option>
+          <option *ngFor="let item of roleslist" value="{{item.name}}">{{item.name}}</option>
+        </select>
+        <div *ngIf="NameOfRoleOFUserID?.invalid && (NameOfRoleOFUserID?.dirty || NameOfRoleOFUserID?.touched)">
+          <small class="text-danger" *ngIf="NameOfRoleOFUserID?.errors?.['required']">
+            RoleOFUserID MUst be chosed
+          </small>
+        </div>
+      </div>
+      <div *ngIf="this.NameOfRoleOFUserID?.value=='Delivery'">
+        <br />
+        <div class="from-group my-2">
+          <label>SSN :</label>
+          <input type="text" formControlName="SSN" class="form-control" />
+          <small *ngIf="registerForm.errors?.['required']" class="text-danger">SSN it required</small>
+        </div>
+        <div class="from-group my-2">
+          <label>AccountNumber :</label>
+          <input type="text" formControlName="AccountNumber" class="form-control" />
+          <small *ngIf="registerForm.errors?.['required']" class="text-danger">AccountNumber it required</small>
+        </div>
+
+      </div>
+
+      <input type="submit" [disabled]="registerForm.invalid" class="btn btn-success my-5" value="Register" />
+    </form>
+  </div>
+</div>
+<br />
+<br />

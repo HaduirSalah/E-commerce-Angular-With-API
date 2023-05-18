@@ -1,0 +1,31 @@
+<div class="container">
+  <div class="row">
+    <a class="btn btn-primary col-md-3 mt-5" routerLink="/Suppliers/Add">Add New Supplier</a>
+    <table class="table border my-5">
+      <thead>
+        <tr>
+          <th>
+            Name
+          </th>
+          <th>SSN</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let supplier of suppliers">
+          <td>
+            {{supplier.name}}
+            <i class="fa-solid fa-circle-check ms-3 text-success" *ngIf="supplier.verifecationState"></i>
+          </td>
+          <td>{{supplier.ssn}}</td>
+          <td>
+            <a routerLink="/Suppliers/Edit/{{supplier.id}}" class="m-3 h3" style="color: #434F78;"><i class="fa-solid fa-pen-to-square"></i></a>
+            <a (click)="ConfirmDelete(supplier.id)" class="m-3 h3" style="color: #f3c93e;"><i class="fa-solid fa-trash"></i></a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <a class="col-md-3 mb-5 text-info" routerLink="/Dashboard">Back to Dashboard</a>
+  </div>
+</div>
+

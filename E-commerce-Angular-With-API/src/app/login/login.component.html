@@ -1,0 +1,33 @@
+
+<div class="container mt-5">
+  <div class="heading_container heading_center">
+    <h2>
+      Sign In
+    </h2>
+  </div>
+<div class="row">
+  <form [formGroup]="loginForm" (ngSubmit)="submitData()" class="col-md-8 mx-auto">
+    <br><br>
+    <div class="from-group">
+      <label>User Name :</label>
+      <input type="text" name="userName" formControlName="userName" class="form-control">
+      <div *ngIf="userName?.errors && userName?.touched">
+        <small class="text-danger" *ngIf="userName?.errors?.['required']">User Name is required</small>
+        <!-- <small class="text-danger" *ngIf="userName?.errors?.['pattern']">Email must be in the format user@domain.com</small> -->
+      </div>
+    </div>
+    <br><br>
+    <div class="from-group">
+      <label>Password :</label>
+      <input type="password" name="password" formControlName="password" class="form-control">
+      <div *ngIf="password?.errors && password?.touched">
+        <small class="text-danger" *ngIf="password?.errors?.['required']">password is required</small>
+        <!-- <small class="text-danger" *ngIf="password?.errors?.['pattern']">password must start with capital character and more than 5 letters</small> -->
+      </div>
+    </div>
+    <br><br>
+    <button type="submit" [disabled]="!loginForm.valid"  class="btn btn-success">Login</button>
+  </form>
+</div>
+</div>
+<br><br>
